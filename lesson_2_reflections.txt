@@ -1,0 +1,11 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: When you initialize a repository, a .git file is created in the directory
+to track metadata. You need to initialize the repository to establish it and begin
+collecting metadata relevant to version control.
+
+Q: How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+A: The staging area is a middleground between the working directory and the repository.
+The staging area give you more control over what you commit and when.
