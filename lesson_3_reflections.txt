@@ -8,3 +8,17 @@ stay up-to-date with your remote repository?
 A: Maybe there could be a conflict between an update that someone else has pushed to
 GitHub and what you have stored locally. Pulling changes manually also forces you
 to keep better track of what work is being done on a project.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+A: A fork is a copy of a repository - all done on GitHub - from one account to another.
+A clone is a copy that can be made locally, or between GitHub and a computer. A clone
+from GitHub to a computer is automatically set up as a remote. A branch is an alternative
+version of whatever is being worked in the master branch - perhaps a new feature is being
+experimented with, or translation between languages is being done on another branch. A fork
+is used when you would like to build on someone else's work - if you don't have permission
+to directly work on their repository, you can fork it to your own account and use GitHub
+to track the changes you've made. You can also suggest changes back to the owner of the
+original repository. A clone is made if you'd like to create a remote, or if you'd like to 
+make a copy of a repository.
