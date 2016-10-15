@@ -22,3 +22,8 @@ to directly work on their repository, you can fork it to your own account and us
 to track the changes you've made. You can also suggest changes back to the owner of the
 original repository. A clone is made if you'd like to create a remote, or if you'd like to 
 make a copy of a repository.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A: If I have to go offline, then I can compare the two versions and continue working
+without going online.
