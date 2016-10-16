@@ -27,3 +27,12 @@ Q: What is the benefit of having a copy of the last known state of the remote st
 
 A: If I have to go offline, then I can compare the two versions and continue working
 without going online.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and 
+what would be harder?
+
+A: I would document changes in a text file and send major changes over e-mail, or maybe
+using a cloud platform such as Dropbox or Google Drive. 
+It would be harder to trace changes and compare differences. I can only think of one
+way in which things might be easier without Git or GitHub - collaborators would not
+have to know how to use Git or GitHub.
