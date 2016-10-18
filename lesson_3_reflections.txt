@@ -36,3 +36,18 @@ using a cloud platform such as Dropbox or Google Drive.
 It would be harder to trace changes and compare differences. I can only think of one
 way in which things might be easier without Git or GitHub - collaborators would not
 have to know how to use Git or GitHub.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+A: There is a chance that the changes you're making are dependent on code that only exists
+in or is different in an already existing separate branch from master, in which case you 
+would certainly want to make those changes within that branch rather than in the master branch.
+Making changes directly to the master branch is less complicated than making changes
+to a separate branch and later merging, but working in separate branches allows you to
+more effectively compartmentalize different features and stay organized as you work on them
+separately. Fundamental changes, perhaps, belong in the master branch, while more niche
+additions ought to be separated from that work into separate branches.
+
+
+
